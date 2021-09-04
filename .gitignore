@@ -25,3 +25,5 @@ nonn_monn-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+/config/*
